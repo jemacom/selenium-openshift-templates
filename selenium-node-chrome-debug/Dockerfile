@@ -1,4 +1,4 @@
-FROM selenium/node-chrome-debug
+FROM selenium/node-chrome-debug:3.6.0-bromine
 
 ENV HOME=/home/seluser
 
